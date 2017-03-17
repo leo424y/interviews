@@ -1,9 +1,9 @@
 Interviews	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^# Interviews$/;"	function	line:8
-其他语言版本	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 其他语言版本$/;"	function	line:13
-目录	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 目录$/;"	function	line:17
-在线练习	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 在线练习$/;"	function	line:29
-在线面试编程	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 在线面试编程$/;"	function	line:38
-数据结构	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 数据结构$/;"	function	line:42
+其他語言版本	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 其他語言版本$/;"	function	line:13
+目錄	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 目錄$/;"	function	line:17
+線上練習	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 線上練習$/;"	function	line:29
+線上面試程式設計	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 線上面試程式設計$/;"	function	line:38
+資料結構	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 資料結構$/;"	function	line:42
 Linked List	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Linked List$/;"	function	line:43
 Stack	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Stack$/;"	function	line:54
 Queue	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Queue$/;"	function	line:63
@@ -16,29 +16,29 @@ Segment Tree	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^###
 Heap	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Heap$/;"	function	line:113
 Hashing	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Hashing$/;"	function	line:125
 Graph	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### Graph$/;"	function	line:134
-算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 算法$/;"	function	line:141
+演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 演算法$/;"	function	line:141
 排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### 排序$/;"	function	line:143
 快速排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 快速排序$/;"	function	line:145
-归并排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 归并排序$/;"	function	line:154
+歸併排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 歸併排序$/;"	function	line:154
 桶排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 桶排序$/;"	function	line:164
-基数排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 基数排序$/;"	function	line:174
-图算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### 图算法$/;"	function	line:181
-深度优先搜索	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 深度优先搜索$/;"	function	line:183
-广度优先搜索	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 广度优先搜索$/;"	function	line:189
-拓扑排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 拓扑排序$/;"	function	line:195
-Dijkstra 算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Dijkstra 算法$/;"	function	line:199
-Bellman-Ford 算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Bellman-Ford 算法$/;"	function	line:205
-Floyd-Warshall 算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Floyd-Warshall 算法$/;"	function	line:214
-Prim 算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Prim 算法$/;"	function	line:221
-Kruskal 算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Kruskal 算法$/;"	function	line:227
-位运算	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 位运算$/;"	function	line:233
-算法复杂度分析	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 算法复杂度分析$/;"	function	line:254
+基數排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 基數排序$/;"	function	line:174
+圖演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^### 圖演算法$/;"	function	line:181
+深度優先搜尋	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 深度優先搜尋$/;"	function	line:183
+廣度優先搜尋	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 廣度優先搜尋$/;"	function	line:189
+拓撲排序	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 拓撲排序$/;"	function	line:195
+Dijkstra 演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Dijkstra 演算法$/;"	function	line:199
+Bellman-Ford 演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Bellman-Ford 演算法$/;"	function	line:205
+Floyd-Warshall 演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Floyd-Warshall 演算法$/;"	function	line:214
+Prim 演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Prim 演算法$/;"	function	line:221
+Kruskal 演算法	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Kruskal 演算法$/;"	function	line:227
+位運算	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 位運算$/;"	function	line:233
+演算法複雜度分析	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 演算法複雜度分析$/;"	function	line:254
 大 O 表示	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 大 O 表示$/;"	function	line:256
 小 O 表示	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 小 O 表示$/;"	function	line:261
 大 Ω 表示	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 大 Ω 表示$/;"	function	line:264
 小 ω 表示	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### 小 ω 表示$/;"	function	line:269
 Theta Θ 表示	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^#### Theta Θ 表示$/;"	function	line:272
-视频教程	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 视频教程$/;"	function	line:277
-面试书籍	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 面试书籍$/;"	function	line:285
-计算机科学与技术资讯	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 计算机科学与技术资讯$/;"	function	line:290
-文件结构	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 文件结构$/;"	function	line:293
+視訊教程	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 視訊教程$/;"	function	line:277
+面試書籍	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 面試書籍$/;"	function	line:285
+電腦科學與技術資訊	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 電腦科學與技術資訊$/;"	function	line:290
+檔案結構	/Users/y/Dropbox/Public/;carear/interviews-tw/README-zh-tw.md	/^## 檔案結構$/;"	function	line:293
