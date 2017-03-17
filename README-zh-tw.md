@@ -13,6 +13,7 @@
 ## 其他語言版本
 
 - [English](./README.md)
+- [Chinese-Simplified](./README-zh-cn.md)
 
 ## 目錄
 - [線上練習](#線上練習)
